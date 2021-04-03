@@ -1,6 +1,6 @@
 # Financial-Analysis-with-Machine-Learning
 Hello there, Welcome!
-This is a project I've done during a course I followed on Udemy from Super Data Science. 
+This is a project I've done during a course I followed on Udemy from Super Data Science: https://www.udemy.com/course/ml-and-python-in-finance-real-cases-and-practical-solutions/
 
 The project consisted of three main parts:
 
